@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EdukondaluJoga/FAQ.git"
+    "url": "https://github.com/sushmaa29/FAQ-App.git"
   },
-  "author": "Joga",
+  "author": "sushma",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/EdukondaluJoga/FAQ/issues"
@@ -35,3 +35,4 @@
     "nodemon": "^3.1.9"
   }
 }
+
